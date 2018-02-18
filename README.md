@@ -20,3 +20,14 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## 技术栈
+- `Vue2.0`：用于构建用户界面的mvvm框架
+- `vue-router`：为单页面提供的路由系统
+- `eventBus`： 在小应用中实现兄弟组件之间的通信(组件之间的传值和事件捕获)
+- `better-scroll`：iscroll 的优化版，使移动端滑动体验更加流畅
+- `stylus`：css预编译处理器
+- `ES6
+- `Node.js`：利用 Express 起一个本地测试服务器
+- `webpack`：项目的编译打包
+- `vue-cli`：Vue 脚手架工具，快速搭建项目`
